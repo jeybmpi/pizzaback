@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mailer",
+      "password": "jdhjsdsss",
+      "email": "mailer@gmail.com"
+    },
+    {
+      "name": "Juan",
+      "password": "jdhjsds",
+      "email": "juan@gmail.com",
+      "id": 2
+    }
+  ],
+  "pizzas":[
+    {
+      "id":1,
+      "idUser1":4,
+      "idUser2":5
+    }
+  ]
+}
