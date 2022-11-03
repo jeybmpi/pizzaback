@@ -15,9 +15,163 @@
   ],
   "pizzas":[
     {
-      "id":1,
-      "idUser1":4,
-      "idUser2":5
+      "name": "chorizo y champiñones",
+      "precio": 32000,
+      "id": 1,
+      "cantidad": 3,
+      "descripcion": "La pizza margarita (en italiano pizza Margherita) es una típica pizza napolitana elaborada con tomate, mozzarella (tradicionalmente se usa el Fior di latte), albahaca fresca, sal y aceite. Se trata de la pizza napolitana más popular, junto con la marinera.",
+      "reseñas": [
+        {
+          "comensal1": "De las mejores pizzas que he comido. Muy recomendado",
+          "dias": 28,
+          "nombre": "lorena perez",
+          "imagen": "https://i.pinimg.com/564x/87/03/d5/8703d54ff87e74bba6d455daa061bf55.jpg"
+        }
+      ],
+      "imagen": "https://i.pinimg.com/564x/34/f4/8f/34f48f5c56c938642b80b0555e5adf82.jpg"
+    },
+    {
+      "name": "chorizo con extra queso",
+      "precio": 29000,
+      "descripcion": "La pizza margarita (en italiano pizza Margherita) es una típica pizza napolitana elaborada con tomate, mozzarella (tradicionalmente se usa el Fior di latte), albahaca fresca, sal y aceite. Se trata de la pizza napolitana más popular, junto con la marinera.",
+      "reseñas": [
+        {
+          "comensal1": "De las mejores pizzas que he comido. Muy recomendado",
+          "dias": 17,
+          "nombre": "carla saldarriaga",
+          "imagen": "https://i.pinimg.com/564x/f6/c3/f6/f6c3f678154c65d4fc6d0a3816c871e2.jpg"
+        }
+      ],
+      "imagen": "https://i.pinimg.com/564x/6a/88/32/6a8832d29a911b320f9c68af86f8e134.jpg",
+      "id": 2,
+      "cantidad": 20
+    },
+    {
+      "name": "peperoni",
+      "precio": 25000,
+      "descripcion": "La pizza margarita (en italiano pizza Margherita) es una típica pizza napolitana elaborada con tomate, mozzarella (tradicionalmente se usa el Fior di latte), albahaca fresca, sal y aceite. Se trata de la pizza napolitana más popular, junto con la marinera.",
+      "reseñas": [
+        {
+          "comensal1": "De las mejores pizzas que he comido. Muy recomendado",
+          "dias": 6,
+          "nombre": "milena idarraga",
+          "imagen": "https://i.pinimg.com/564x/84/d2/3f/84d23f08d9c514523ec252caecbacb85.jpg"
+        }
+      ],
+      "imagen": "https://i.pinimg.com/564x/4c/dd/3c/4cdd3cf6f7924b62ea58208b5cd6729d.jpg",
+      "id": 3,
+      "cantidad": 13
+    },
+    {
+      "name": "pera con queso azul",
+      "precio": 40000,
+      "descripcion": "La pizza margarita (en italiano pizza Margherita) es una típica pizza napolitana elaborada con tomate, mozzarella (tradicionalmente se usa el Fior di latte), albahaca fresca, sal y aceite. Se trata de la pizza napolitana más popular, junto con la marinera.",
+      "reseñas": [
+        {
+          "comensal1": "De las mejores pizzas que he comido. Muy recomendado",
+          "dias": 8,
+          "nombre": "Ramón martinez ",
+          "imagen": "https://i.pinimg.com/564x/f3/1e/ac/f31eacc20566961a6e5f20ecaa5e2a11.jpg"
+        }
+      ],
+      "imagen": "https://i.pinimg.com/564x/f7/83/36/f783363d6a2aa70fa9917e7273f966ea.jpg",
+      "id": 4,
+      "cantidad": 8
+    },
+    {
+      "name": "tomate con extra queso",
+      "precio": 26000,
+      "descripcion": "La pizza margarita (en italiano pizza Margherita) es una típica pizza napolitana elaborada con tomate, mozzarella (tradicionalmente se usa el Fior di latte), albahaca fresca, sal y aceite. Se trata de la pizza napolitana más popular, junto con la marinera.",
+      "reseñas": [
+        {
+          "comensal1": "De las mejores pizzas que he comido. Muy recomendado",
+          "dias": 6,
+          "nombre": "Jessy gonzales",
+          "imagen": "https://i.pinimg.com/564x/99/aa/37/99aa371c15340d0458c5969f33ff6809.jpg"
+        }
+      ],
+      "imagen": "https://i.pinimg.com/564x/d4/81/a1/d481a18b6607560291a1ed2639bebaa1.jpg",
+      "id": 5,
+      "cantidad": 6
+    },
+    {
+      "name": "aguacate con salmón",
+      "precio": 42000,
+      "descripcion": "La pizza margarita (en italiano pizza Margherita) es una típica pizza napolitana elaborada con tomate, mozzarella (tradicionalmente se usa el Fior di latte), albahaca fresca, sal y aceite. Se trata de la pizza napolitana más popular, junto con la marinera.",
+      "reseñas": [
+        {
+          "comensal1": "De las mejores pizzas que he comido. Muy recomendado",
+          "dias": 4,
+          "nombre": "ana taborda",
+          "imagen": "https://i.pinimg.com/564x/53/70/04/537004c4f1d725e7d680997b725ca84d.jpg"
+        }
+      ],
+      "imagen": "https://i.pinimg.com/564x/b8/38/65/b83865a0b1ddc8b6891b4a2716c70c2c.jpg",
+      "id": 6,
+      "cantidad": 5
+    },
+    {
+      "name": "Burrata rústica",
+      "precio": 16000,
+      "descripcion": "La pizza margarita (en italiano pizza Margherita) es una típica pizza napolitana elaborada con tomate, mozzarella (tradicionalmente se usa el Fior di latte), albahaca fresca, sal y aceite. Se trata de la pizza napolitana más popular, junto con la marinera.",
+      "reseñas": [
+        {
+          "comensal1": "De las mejores pizzas que he comido. Muy recomendado",
+          "dias": 11,
+          "nombre": "miguel sanchez",
+          "imagen": "https://i.pinimg.com/564x/7f/8b/8c/7f8b8c05f766ecd6dc3269f271190e26.jpg"
+        }
+      ],
+      "imagen": "https://i.pinimg.com/564x/18/cd/3b/18cd3b028f0770c47658ea748738292a.jpg",
+      "id": 7,
+      "cantidad": 10
+    },
+    {
+      "name": "Champiniones a los tres quesos",
+      "precio": 30000,
+      "descripcion": "La pizza margarita (en italiano pizza Margherita) es una típica pizza napolitana elaborada con tomate, mozzarella (tradicionalmente se usa el Fior di latte), albahaca fresca, sal y aceite. Se trata de la pizza napolitana más popular, junto con la marinera.",
+      "reseñas": [
+        {
+          "comensal1": "De las mejores pizzas que he comido. Muy recomendado",
+          "dias": 21,
+          "nombre": "yuko suzuki",
+          "imagen": "https://i.pinimg.com/564x/f4/a8/1c/f4a81ca83b8e6e12377528ca667c01fd.jpg"
+        }
+      ],
+      "imagen": "https://i.pinimg.com/564x/04/29/61/0429611b5a2ff6e955cf96787d3141a0.jpg",
+      "id": 8,
+      "cantidad": 7
+    },
+    {
+      "name": "Camarones",
+      "precio": 38000,
+      "descripcion": "La pizza margarita (en italiano pizza Margherita) es una típica pizza napolitana elaborada con tomate, mozzarella (tradicionalmente se usa el Fior di latte), albahaca fresca, sal y aceite. Se trata de la pizza napolitana más popular, junto con la marinera.",
+      "reseñas": [
+        {
+          "comensal1": "De las mejores pizzas que he comido. Muy recomendado",
+          "dias": 20
+        }
+      ],
+      "imagen": "https://i.pinimg.com/564x/c0/0d/fe/c00dfe429dc331623ce2c35d262f5e2d.jpg",
+      "id": 9,
+      "cantidad": 4
+    },
+    {
+      "name": "Pollo teriyaki picante",
+      "precio": 38000,
+      "descripcion": "La pizza margarita (en italiano pizza Margherita) es una típica pizza napolitana elaborada con tomate, mozzarella (tradicionalmente se usa el Fior di latte), albahaca fresca, sal y aceite. Se trata de la pizza napolitana más popular, junto con la marinera.",
+      "reseñas": [
+        {
+          "comensal1": "De las mejores pizzas que he comido. Muy recomendado",
+          "dias": 4
+        }
+      ],
+      "imagen": "https://i.pinimg.com/564x/e7/67/da/e767da3f3cce8fbb09f781dcf6673020.jpg",
+      "id": 10,
+      "cantidad": 6
     }
-  ]
+  ],
+  "compras":{
+    "id": 1
+  }
 }
